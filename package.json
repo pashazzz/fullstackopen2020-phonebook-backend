@@ -1,0 +1,27 @@
+{
+    "name": "fullstackopen2020-phonebook-backend",
+    "version": "1.0.0",
+    "description": "Node.js exercises for Full Stack Open 2020 course",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pashazzz/fullstackopen2020-phonebook-backend.git"
+    },
+    "author": "pmalyshkin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pashazzz/fullstackopen2020-phonebook-backend/issues"
+    },
+    "homepage": "https://github.com/pashazzz/fullstackopen2020-phonebook-backend#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
